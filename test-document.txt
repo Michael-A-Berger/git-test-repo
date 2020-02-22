@@ -9,3 +9,9 @@ This is a test document to explain how Git works.
 1. Get an apple
 2. Wash it
 3. Bite into it
+
+- How to make Orange Juice
+
+1. Pick a dozen oranges
+2. Squeeze them into a glass
+3. Drink the Orange Juice
