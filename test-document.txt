@@ -1,0 +1,11 @@
+=== TEST DOCUMENT ===
+
+This is a test document to explain how Git works.
+
+=== ADD COOL INSTRUCTIONS BELOW ===
+
+- How to eat an apple
+
+1. Get an apple
+2. Wash it
+3. Bite into it
